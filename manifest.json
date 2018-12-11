@@ -1,0 +1,53 @@
+{
+    "name" : "Sonora Soluções Auditivas",
+    "short_name" : "Sonora",
+    "theme_color" : "#92ac00",
+    "backgroun_color": "#92ac00",
+    "display" : "standalone",
+    "start_url" : "/site",
+    "icons" :[{
+        "src" : "img/iconApp.png",
+        "sizes": "420X420",
+        "type" :"image/png"
+    },
+    {
+        "src" : "img/logo.png",
+        "sizes": "420X420",
+        "type" :"image/png"
+    },
+    {
+        "src" : "img/logo-B.png",
+        "sizes": "420X420",
+        "type" :"image/png"
+    },
+    {
+        "src" : "img/test1.png",
+        "sizes": "420X420",
+        "type" :"image/png"
+    },
+    {
+        "src" : "img/test2.png",
+        "sizes": "420X420",
+        "type" :"image/png"
+    },
+    {
+        "src" : "img/galeria.png",
+        "sizes": "420X420",
+        "type" :"image/png"
+    },
+    {
+        "src" : "img/experimente-gratis.png",
+        "sizes": "420X420",
+        "type" :"image/png"
+    },
+    {
+        "src" : "img/capipa.png",
+        "sizes": "420X420",
+        "type" :"image/png"
+    }
+
+
+
+] 
+
+}

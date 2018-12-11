@@ -1,0 +1,3 @@
+[05-Apr-2018 05:24:54 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sonora/public_html/site/enviar.php:20) in /home/sonora/public_html/site/enviar.php on line 21
+[05-Apr-2018 05:26:31 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sonora/public_html/site/enviar2.php:18) in /home/sonora/public_html/site/enviar2.php on line 19
+[05-Apr-2018 05:28:49 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sonora/public_html/site/enviar.php:20) in /home/sonora/public_html/site/enviar.php on line 21
